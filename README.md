@@ -1,5 +1,8 @@
 [![tests](https://github.com/andrehora/quiz/actions/workflows/tests.yml/badge.svg)](https://github.com/andrehora/quiz/actions/workflows/tests.yml)
 
+# Nome
+Lucas Silva Viana
+
 # Quiz testing example
 
 Neste exercício, iremos melhorar os testes de unidade de sistema de quiz.
